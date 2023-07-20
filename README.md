@@ -1,2 +1,2 @@
 # LED-Circuit
-Creating LED circuit with arduino board in TinkerCad
+Creating LED circuit with arduino in TinkerCad
